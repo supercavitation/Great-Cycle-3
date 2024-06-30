@@ -1,0 +1,10 @@
+	{
+        "title": "Battle Frontier (Great)",
+        "cup": "battlefrontiergreat",
+        "cp": 1500,
+        "meta": "battlefrontiergreat",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true,
+        "hideRankings": true
+    },
