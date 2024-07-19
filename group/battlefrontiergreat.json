@@ -163,6 +163,10 @@
     "fastMove": "STEEL_WING",
     "chargedMoves": ["SKY_ATTACK", "BRAVE_BIRD"]
 }, {
+    "speciesId": "skeledirge",
+    "fastMove": "INCINERATE",
+    "chargedMoves": ["DISARMING_VOICE", "SHADOW_BALL"]
+}, {
     "speciesId": "stunfisk_galarian",
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["ROCK_SLIDE", "EARTHQUAKE"]
